@@ -1,1 +1,9 @@
-{"name":"Sri Venkateswara Mega Store","short_name":"SVMS","start_url":".","display":"standalone","theme_color":"#18212b","background_color":"#f4f6f8"}
+{
+  "name": "Sri Venkateswara Mega Store",
+  "short_name": "SV Mega Store",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#18212b",
+  "icons": []
+}
